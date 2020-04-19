@@ -12,5 +12,5 @@ This project is a homework assignment to teach how to get PyCharm set up with Do
 ![pycharm data query](/screenshots/query.png)
 
 # Bootstrap Table Screenshot
-![]()
+![bootstrap tabular output](/screenshots/bootstrap.png)
 
